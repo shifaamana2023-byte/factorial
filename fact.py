@@ -1,4 +1,4 @@
-num = 5
+num = 6
 
 # Factorial
 fact = 1
